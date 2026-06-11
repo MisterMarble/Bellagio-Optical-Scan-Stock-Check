@@ -14,7 +14,7 @@ main{padding:12px;max-width:920px;margin:0 auto}
 .camera-head h2{margin:0;font-size:16px}
 .camera-frame{position:relative;width:min(100%,360px);aspect-ratio:3/4;margin:0 auto;border-radius:12px;overflow:hidden;background:#111}
 .camera-frame video{width:100%;height:100%;object-fit:cover;display:block}
-.scan-guide{position:absolute;left:50%;top:50%;width:64%;height:82%;transform:translate(-50%,-50%);border:2px solid rgba(255,255,255,.95);border-radius:14px;box-shadow:0 0 0 999px rgba(0,0,0,.22)}
+.scan-guide{position:absolute;left:50%;top:50%;width:42%;height:84%;transform:translate(-50%,-50%);border:2px solid rgba(255,255,255,.95);border-radius:14px;box-shadow:0 0 0 999px rgba(0,0,0,.22)}
 .camera-actions{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:10px}
 .scan-result{margin-top:10px;padding:10px;border:1px solid var(--border);border-radius:12px;background:#fff;display:grid;gap:8px}
 .scan-result .result-actions{display:flex;gap:8px;flex-wrap:wrap}
